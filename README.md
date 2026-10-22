@@ -1,44 +1,59 @@
-![](https://komarev.com/ghpvc/?username=YandrosChaos&color=blue)
-[![Website](https://img.shields.io/badge/-N0M4D-black?&logo=github&logoColor=white)](https://gg-victor.dev)
+<h1 align="center">SK3L3TØR</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=7+years+of+exp;FullStack/Freelance+Developer;From+Madrid,+Spain;Crafting+unique+apps" alt="typing intro">
+  <strong>Software Engineer · Full-Stack & Cross-Platform · Systems Architecture</strong>
 </p>
 
-## Reach Me
-I’m a freelance software developer and systems architect.
-
-I design and build custom systems for companies, startups, traders and creators who already have traction but are starting to hit operational friction, manual processes, fragile software or scalability issues.
-
-My work usually involves:
-
-- Hybrid apps (Angular, Ionic, Capacitor)
-- Process automation and internal tools
-- Robust architectures built for long-term use, not quick fixes
-
-I come from real production environments: enterprise systems, retail platforms, critical software, complex integrations and products that must work reliably, not just look good.
-
-I focus on systems, stability and sustainable growth.
-
-If you think your business needs structure, automation or a stronger technical foundation, the most efficient step is a 20–30 minute call to see if building a system together makes sense.
-
-## Tech Stack
 <p align="center">
-  
-  [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)]()
-  [![Ionic](https://img.shields.io/badge/-IONIC-%23316192.svg?&style=for-the-badge&logo=ionic&logoColor=white)]()
-  [![Capacitor](https://img.shields.io/badge/-CAPACITOR-%23316192.svg?&style=for-the-badge&logo=capacitor&logoColor=white)]()
-  [![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
-  [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
-  [![NodeJS](https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%23F7DF1E)]()
-  [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
-  [![Python](https://img.shields.io/badge/-PYTHON-green?&style=for-the-badge&logo=python&logoColor=blue)]()
-  [![Bash](https://img.shields.io/badge/-BASH-black?style=for-the-badge&logo=shell&logoColor=white)]()
-  [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
-  [![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)]()
-  [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)]()
-  [![Linux](https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=archlinux&logoColor=white)]()
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-  [![iOS](https://img.shields.io/badge/-apple-silver?style=for-the-badge&logo=apple&logoColor=white)]()
-  
+  <img alt="7+ years of experience" src="https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-A875F5?style=flat-square&labelColor=17202A" />
+  <img alt="Based in Metaverse" src="https://img.shields.io/badge/LOCATION-METAVERSE-273746?style=flat-square&labelColor=17202A" />
+  <img alt="Building web, mobile, and backend software" src="https://img.shields.io/badge/BUILDING-WEB%20%7C%20MOBILE%20%7C%20BACKEND-273746?style=flat-square&labelColor=17202A" />
+</p>
+
+---
+
+### About
+
+I build production software across web, mobile and backend, combining **hands-on development with architecture and technical ownership**. My experience includes enterprise platforms, complex integrations and internal tools designed for reliability and long-term maintenance.
+
+### Selected work
+
+### Professional experience
+
+- **Codere · Full-Stack Developer | Architecture & Applications (current)**  
+  Co-own a portfolio of production hybrid apps used by **thousands of active users** across mobile, web and desktop, within a two-engineer team. Contribute to architecture, Liferay CMS, integrations and R&D. **Highlights:** designed and implemented a custom Redux state-management library to replace NgRx, and tackled complex cross-platform push notification scenarios.
+
+- **Airbus (via Akkodis) · Software Engineer**  
+  Served as a technical reference on aircraft weight-and-balance software. Designed the event-based communication architecture, built integrations connecting Electron to native capabilities and a C calculation engine, and automated data and licensing workflows with Python.
+
+### Independent projects
+
+- **KIDA · Open source, in development**  
+  Rust-based Linux server management agent with CLI and HTTP interfaces. Web/API and Docker-based distribution are in progress.
+
+- **Atlantis · Self-hosted infrastructure**  
+  Personal cloud built and operated end to end, combining Docker services, Forgejo CI/CD, Nextcloud, private networking and a Rust reverse proxy. A practical showcase of infrastructure and deployment automation.
+
+### Core stack
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-202B37?style=flat-square&logo=typescript&logoColor=A875F5" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-202B37?style=flat-square&logo=angular&logoColor=A875F5" />
+  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-202B37?style=flat-square&logo=ionic&logoColor=A875F5" />
+  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-202B37?style=flat-square&logo=capacitor&logoColor=A875F5" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-202B37?style=flat-square&logo=nodedotjs&logoColor=A875F5" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-202B37?style=flat-square&logo=python&logoColor=A875F5" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-202B37?style=flat-square&logo=rust&logoColor=A875F5" />
+</p>
+
+<sub>Also working with FastAPI, Docker, Linux and CI/CD.</sub>
+
+### Let's connect
+
+Open to **international software engineering opportunities** and **selected freelance collaborations**.
+
+<p>
+  <a href="https://github.com/sk3l3tr"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VIEW%20WORK-273746?style=flat-square&logo=googlechrome&logoColor=A875F5&labelColor=17202A" /></a>
+  <a href="https://www.linkedin.com/in/victor-develops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-273746?style=flat-square&logo=linkedin&logoColor=A875F5&labelColor=17202A" /></a>
+  <a href="mailto:victor.develops@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-A875F5?style=flat-square&logo=gmail&logoColor=17202A&labelColor=17202A" /></a>
 </p>

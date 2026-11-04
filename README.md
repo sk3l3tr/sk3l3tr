@@ -21,18 +21,18 @@ I build production software across web, mobile and backend, combining **hands-on
 ### Professional experience
 
 - **Codere · Full-Stack Developer | Architecture & Applications (current)**  
-  Co-own a portfolio of production hybrid apps used by **thousands of active users** across mobile, web and desktop, within a two-engineer team. Contribute to architecture, Liferay CMS, integrations and R&D. **Highlights:** designed and implemented a custom Redux state-management library to replace NgRx, and tackled complex cross-platform push notification scenarios.
+  Co-own a portfolio of +7 production hybrid apps used by **thousands of active users** across mobile, web and desktop, within a two-engineer team. Contribute to architecture, Liferay CMS, integrations and R&D. **Highlights:** designed and implemented a custom Redux state-management library to replace NgRx, and tackled complex cross-platform push notification scenarios.
 
-- **Airbus (via Akkodis) · Software Engineer**  
+- **Airbus Military · Software Engineer**  
   Served as a technical reference on aircraft weight-and-balance software. Designed the event-based communication architecture, built integrations connecting Electron to native capabilities and a C calculation engine, and automated data and licensing workflows with Python.
 
 ### Independent projects
 
-- **KIDA · Open source, in development**  
-  Rust-based Linux server management agent with CLI and HTTP interfaces. Web/API and Docker-based distribution are in progress.
+- **KIDA · Open source**  
+  Linux server management agent with CLI and HTTP interfaces. Manage Docker, backups, scheduled tasks and system operations from a single tool.
 
 - **Atlantis · Self-hosted infrastructure**  
-  Personal cloud built and operated end to end, combining Docker services, Forgejo CI/CD, Nextcloud, private networking and a Rust reverse proxy. A practical showcase of infrastructure and deployment automation.
+  Personal cloud built and operated end to end, combining Forgejo, Nextcloud, Sure, Jellyfin, Netbird, private networking and a custom Rust reverse proxy. A practical showcase of infrastructure and deployment automation.
 
 ### Core stack
 

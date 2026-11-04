@@ -28,11 +28,20 @@ I build production software across web, mobile and backend, combining **hands-on
 
 ### Independent projects
 
-- **KIDA · Open source**  
-  Linux server management agent with CLI and HTTP interfaces. Manage Docker, backups, scheduled tasks and system operations from a single tool.
+- **[KIDA](https://github.com/sk3l3tr/KIDA) · Linux server management**  
+  A Rust agent and CLI for managing Docker containers, backups, scheduled tasks and system operations through Unix sockets and HTTP. Includes backup recovery checks that restore data into isolated Docker Compose environments and assess service health.
 
 - **Atlantis · Self-hosted infrastructure**  
-  Personal cloud built and operated end to end, combining Forgejo, Nextcloud, Sure, Jellyfin, Netbird, private networking and a custom Rust reverse proxy. A practical showcase of infrastructure and deployment automation.
+  A personal cloud hosting Forgejo, Nextcloud, Sure and Jellyfin, connected through a private NetBird network and a custom Rust reverse proxy. Built and operated end to end, with containerized services and automated deployments.
+
+- **[DemiurgeJS](https://github.com/sk3l3tr/DemiurgeJS) · Frontend library**  
+  A lightweight JavaScript library that adds SPA-style navigation to static HTML sites without a frontend framework. Provides reusable layouts, page-specific script loading and cleanup, and accessible modals, with npm and browser-script integration.
+
+- **[Autobot](https://github.com/sk3l3tr/autobot) · Desktop automation**  
+  A desktop automation tool for recording and editing reusable workflows of mouse clicks, delays and nested loops, stored as YAML. Combines a web-based desktop interface with a CLI, scheduled execution and webhook triggers.
+
+- **[BoneVim](https://github.com/sk3l3tr/BoneVim) · Developer tooling**  
+  A personal Neovim configuration built on LazyVim, with language tooling selected per project through modular Lua configuration. Includes custom editing shortcuts, setup helpers and a native theme.
 
 ### Core stack
 
